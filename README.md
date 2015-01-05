@@ -1,8 +1,8 @@
-ltsmin-tacas2014
+ltsmin-tacas2015
 ================
-Instructions for installing LTSmin and replicating the runs reported in our TACAS 2014 submission.
+Instructions for installing LTSmin and replicating the runs reported in our TACAS 2015 submission.
 
-Some scripts assume the tools to be installed in the current directory (`ltsmin-tacas2014`).
+Some scripts assume the tools to be installed in the current directory (`ltsmin-tacas2015`).
 
 Prerequisites
 --
