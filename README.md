@@ -21,12 +21,8 @@ To install, run `install-memtime.sh`.
 
 Installing LTSmin
 --
-For installing LTSmin we have the script `install.sh`. For some reasons the can be problems
-with linking LTSmin, Scoop and the GHC libraries on certain platforms (problems are known to 
-occur in Arch Linux and Ubuntu 14.04). In that case `install-without-scoop.sh` can be used, 
-however, the Mapa language will then not be available.
-
-Both scripts install LTSmin in your current working directory and expect mCRL2 to be installed
+For installing LTSmin we have the script `install.sh`. 
+This installs LTSmin in your current working directory and expects mCRL2 to be installed
 there as well.
 
 Case studies
