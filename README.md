@@ -7,11 +7,8 @@ Some scripts assume the tools to be installed in the current directory (`ltsmin-
 Prerequisites
 --
 First, for several experiments, the [mCRL2](http://mcrl2.org) toolset is required.
-We support the official 201409.0 release. To install, run `install-mcrl2.sh`.
-However, recently a bug in the connection between mCRL2 and LTSmin for the PBES language for the
-parallel tools has been fixed. The fix is available in the SVN repository of mCRL2.
-To install, run `install-mcrl2-svn.sh`.
-Both scripts install mCRL2 in your current working directory.
+We support the official 201409.1 release. To install, run `install-mcrl2.sh`.
+The script installs mCRL2 in your current working directory.
 Be patient, building mCRL2 can take a while. Perhaps it is a good idea to check out the 
 binary releases of mCRL2: http://mcrl2.org/release/user_manual/download.html.
 
