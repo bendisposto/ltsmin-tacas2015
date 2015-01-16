@@ -1,46 +1,134 @@
-pbes2lts-sym: Using 16 CPUs
+pbes2lts-sym: Using 64 CPUs
 pbes2lts-sym: =============================================================================
-pbes2lts-sym: Runtime environment could only preallocate 70 GB while requesting 283 GB.
+pbes2lts-sym: Runtime environment could only preallocate 503 GB while requesting 2015 GB.
 pbes2lts-sym:         Configure your system limits to exploit all memory.
 pbes2lts-sym: =============================================================================
-pbes2lts-sym( 0/17): Exploration order is par-prev
-pbes2lts-sym( 0/17): Saturation strategy is none
-pbes2lts-sym( 0/17): Guided search strategy is unguided
-pbes2lts-sym( 0/17): Attractor strategy is default
-pbes2lts-sym( 0/17): PBES language module initialized
-pbes2lts-sym( 0/17): Main process: 0.
-pbes2lts-sym( 0/17): 16 slave processes started.
-pbes2lts-sym( 4/17): PBES language module initialized
-pbes2lts-sym( 4/17): opening four5-structured.pbes
-pbes2lts-sym( 2/17): PBES language module initialized
-pbes2lts-sym( 2/17): opening four5-structured.pbes
-pbes2lts-sym( 5/17): PBES language module initialized
-pbes2lts-sym( 5/17): opening four5-structured.pbes
-pbes2lts-sym( 6/17): PBES language module initialized
-pbes2lts-sym( 6/17): opening four5-structured.pbes
-pbes2lts-sym( 8/17): PBES language module initialized
-pbes2lts-sym( 8/17): opening four5-structured.pbes
-pbes2lts-sym( 9/17): PBES language module initialized
-pbes2lts-sym( 9/17): opening four5-structured.pbes
-pbes2lts-sym(14/17): PBES language module initialized
-pbes2lts-sym(14/17): opening four5-structured.pbes
-pbes2lts-sym(11/17): PBES language module initialized
-pbes2lts-sym(11/17): opening four5-structured.pbes
-pbes2lts-sym(10/17): PBES language module initialized
-pbes2lts-sym(10/17): opening four5-structured.pbes
-pbes2lts-sym(13/17): PBES language module initialized
-pbes2lts-sym(13/17): opening four5-structured.pbes
-pbes2lts-sym(12/17): PBES language module initialized
-pbes2lts-sym(12/17): opening four5-structured.pbes
-pbes2lts-sym(16/17): PBES language module initialized
-pbes2lts-sym(16/17): opening four5-structured.pbes
-pbes2lts-sym( 7/17): PBES language module initialized
-pbes2lts-sym( 7/17): opening four5-structured.pbes
-pbes2lts-sym( 3/17): PBES language module initialized
-pbes2lts-sym( 1/17): PBES language module initialized
-pbes2lts-sym( 3/17): opening four5-structured.pbes
-pbes2lts-sym(15/17): PBES language module initialized
-pbes2lts-sym(15/17): opening four5-structured.pbes
+pbes2lts-sym( 0/65): Exploration order is par-prev
+pbes2lts-sym( 0/65): Saturation strategy is none
+pbes2lts-sym( 0/65): Guided search strategy is unguided
+pbes2lts-sym( 0/65): Attractor strategy is default
+pbes2lts-sym( 0/65): PBES language module initialized
+pbes2lts-sym( 0/65): Main process: 0.
+pbes2lts-sym( 0/65): 64 slave processes started.
+pbes2lts-sym( 1/65): PBES language module initialized
+pbes2lts-sym( 1/65): opening four5-structured.pbes
+pbes2lts-sym( 4/65): PBES language module initialized
+pbes2lts-sym( 4/65): opening four5-structured.pbes
+pbes2lts-sym( 5/65): PBES language module initialized
+pbes2lts-sym( 5/65): opening four5-structured.pbes
+pbes2lts-sym( 6/65): PBES language module initialized
+pbes2lts-sym( 6/65): opening four5-structured.pbes
+pbes2lts-sym( 3/65): PBES language module initialized
+pbes2lts-sym( 3/65): opening four5-structured.pbes
+pbes2lts-sym( 7/65): PBES language module initialized
+pbes2lts-sym( 7/65): opening four5-structured.pbes
+pbes2lts-sym( 8/65): PBES language module initialized
+pbes2lts-sym( 8/65): opening four5-structured.pbes
+pbes2lts-sym( 9/65): PBES language module initialized
+pbes2lts-sym( 9/65): opening four5-structured.pbes
+pbes2lts-sym(11/65): PBES language module initialized
+pbes2lts-sym(10/65): opening four5-structured.pbes
+pbes2lts-sym(11/65): opening four5-structured.pbes
+pbes2lts-sym(12/65): PBES language module initialized
+pbes2lts-sym(12/65): opening four5-structured.pbes
+pbes2lts-sym(13/65): PBES language module initialized
+pbes2lts-sym(13/65): opening four5-structured.pbes
+pbes2lts-sym(16/65): PBES language module initialized
+pbes2lts-sym(16/65): opening four5-structured.pbes
+pbes2lts-sym(17/65): PBES language module initialized
+pbes2lts-sym(17/65): opening four5-structured.pbes
+pbes2lts-sym(15/65): PBES language module initialized
+pbes2lts-sym(15/65): opening four5-structured.pbes
+pbes2lts-sym(14/65): PBES language module initialized
+pbes2lts-sym(14/65): opening four5-structured.pbes
+pbes2lts-sym(18/65): PBES language module initialized
+pbes2lts-sym(18/65): opening four5-structured.pbes
+pbes2lts-sym(19/65): PBES language module initialized
+pbes2lts-sym(19/65): opening four5-structured.pbes
+pbes2lts-sym(20/65): PBES language module initialized
+pbes2lts-sym(20/65): opening four5-structured.pbes
+pbes2lts-sym(23/65): PBES language module initialized
+pbes2lts-sym(23/65): opening four5-structured.pbes
+pbes2lts-sym(27/65): PBES language module initialized
+pbes2lts-sym(27/65): opening four5-structured.pbes
+pbes2lts-sym(26/65): PBES language module initialized
+pbes2lts-sym(26/65): opening four5-structured.pbes
+pbes2lts-sym(22/65): PBES language module initialized
+pbes2lts-sym(32/65): PBES language module initialized
+pbes2lts-sym(32/65): opening four5-structured.pbes
+pbes2lts-sym(21/65): PBES language module initialized
+pbes2lts-sym(21/65): opening four5-structured.pbes
+pbes2lts-sym(25/65): PBES language module initialized
+pbes2lts-sym(25/65): opening four5-structured.pbes
+pbes2lts-sym(36/65): PBES language module initialized
+pbes2lts-sym(36/65): opening four5-structured.pbes
+pbes2lts-sym(24/65): PBES language module initialized
+pbes2lts-sym(24/65): opening four5-structured.pbes
+pbes2lts-sym(28/65): PBES language module initialized
+pbes2lts-sym(28/65): opening four5-structured.pbes
+pbes2lts-sym(29/65): PBES language module initialized
+pbes2lts-sym(29/65): opening four5-structured.pbes
+pbes2lts-sym(46/65): PBES language module initialized
+pbes2lts-sym(46/65): opening four5-structured.pbes
+pbes2lts-sym(42/65): opening four5-structured.pbes
+pbes2lts-sym(31/65): PBES language module initialized
+pbes2lts-sym(31/65): opening four5-structured.pbes
+pbes2lts-sym(38/65): PBES language module initialized
+pbes2lts-sym(38/65): opening four5-structured.pbes
+pbes2lts-sym(30/65): PBES language module initialized
+pbes2lts-sym(30/65): opening four5-structured.pbes
+pbes2lts-sym(45/65): PBES language module initialized
+pbes2lts-sym(45/65): opening four5-structured.pbes
+pbes2lts-sym(63/65): PBES language module initialized
+pbes2lts-sym(43/65): PBES language module initialized
+pbes2lts-sym(44/65): opening four5-structured.pbes
+pbes2lts-sym(63/65): opening four5-structured.pbes
+pbes2lts-sym(43/65): opening four5-structured.pbes
+pbes2lts-sym(34/65): PBES language module initialized
+pbes2lts-sym(34/65): opening four5-structured.pbes
+pbes2lts-sym(40/65): PBES language module initialized
+pbes2lts-sym(40/65): opening four5-structured.pbes
+pbes2lts-sym(51/65): PBES language module initialized
+pbes2lts-sym(51/65): opening four5-structured.pbes
+pbes2lts-sym(59/65): PBES language module initialized
+pbes2lts-sym(59/65): opening four5-structured.pbes
+pbes2lts-sym(39/65): PBES language module initialized
+pbes2lts-sym(39/65): opening four5-structured.pbes
+pbes2lts-sym(48/65): PBES language module initialized
+pbes2lts-sym(48/65): opening four5-structured.pbes
+pbes2lts-sym(61/65): PBES language module initialized
+pbes2lts-sym(61/65): opening four5-structured.pbes
+pbes2lts-sym(47/65): PBES language module initialized
+pbes2lts-sym(64/65): PBES language module initialized
+pbes2lts-sym(47/65): opening four5-structured.pbes
+pbes2lts-sym(64/65): opening four5-structured.pbes
+pbes2lts-sym(56/65): PBES language module initialized
+pbes2lts-sym(56/65): opening four5-structured.pbes
+pbes2lts-sym(58/65): opening four5-structured.pbes
+pbes2lts-sym(57/65): PBES language module initialized
+pbes2lts-sym(57/65): opening four5-structured.pbes
+pbes2lts-sym(55/65): PBES language module initialized
+pbes2lts-sym(55/65): opening four5-structured.pbes
+pbes2lts-sym(33/65): PBES language module initialized
+pbes2lts-sym(33/65): opening four5-structured.pbes
+pbes2lts-sym(60/65): PBES language module initialized
+pbes2lts-sym(60/65): opening four5-structured.pbes
+pbes2lts-sym(35/65): PBES language module initialized
+pbes2lts-sym(35/65): opening four5-structured.pbes
+pbes2lts-sym(37/65): PBES language module initialized
+pbes2lts-sym(37/65): opening four5-structured.pbes
+pbes2lts-sym(49/65): PBES language module initialized
+pbes2lts-sym(49/65): opening four5-structured.pbes
+pbes2lts-sym(52/65): PBES language module initialized
+pbes2lts-sym(52/65): opening four5-structured.pbes
+pbes2lts-sym(62/65): PBES language module initialized
+pbes2lts-sym(62/65): opening four5-structured.pbes
+pbes2lts-sym(54/65): PBES language module initialized
+pbes2lts-sym(54/65): opening four5-structured.pbes
+pbes2lts-sym(41/65): PBES language module initialized
+pbes2lts-sym(41/65): opening four5-structured.pbes
+pbes2lts-sym(50/65): PBES language module initialized
+pbes2lts-sym(50/65): opening four5-structured.pbes
 pbes2lts-sym: opening four5-structured.pbes
 pbes2lts-sym: Regroup specification: gs
 pbes2lts-sym: Regroup macro Group Safely: gc,gr,cw,rs
@@ -54,23 +142,70 @@ pbes2lts-sym: Regroup Column sWaps
 pbes2lts-sym: Regroup Row Sort
 pbes2lts-sym: Regrouping: 101->29 groups
 pbes2lts-sym: state vector length is 22; there are 29 groups
-pbes2lts-sym( 5/17): Creating a multi-core ListDD domain.
-pbes2lts-sym( 6/17): Creating a multi-core ListDD domain.
-pbes2lts-sym( 7/17): Creating a multi-core ListDD domain.
-pbes2lts-sym(12/17): Creating a multi-core ListDD domain.
-pbes2lts-sym(13/17): Creating a multi-core ListDD domain.
-pbes2lts-sym(16/17): Creating a multi-core ListDD domain.
-pbes2lts-sym( 8/17): Creating a multi-core ListDD domain.
-pbes2lts-sym( 4/17): Creating a multi-core ListDD domain.
-pbes2lts-sym( 9/17): Creating a multi-core ListDD domain.
-pbes2lts-sym(10/17): Creating a multi-core ListDD domain.
-pbes2lts-sym( 2/17): Creating a multi-core ListDD domain.
-pbes2lts-sym(14/17): Creating a multi-core ListDD domain.
+pbes2lts-sym( 1/65): Creating a multi-core ListDD domain.
+pbes2lts-sym( 2/65): Creating a multi-core ListDD domain.
+pbes2lts-sym( 8/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(10/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(11/65): Creating a multi-core ListDD domain.
+pbes2lts-sym( 6/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(14/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(34/65): Creating a multi-core ListDD domain.
 pbes2lts-sym: Creating a multi-core ListDD domain.
+pbes2lts-sym(36/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(22/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(26/65): Creating a multi-core ListDD domain.
 pbes2lts-sym: May-write does not support copy; over-approximating may-write \ must-write to read + write
-pbes2lts-sym(15/17): Creating a multi-core ListDD domain.
-pbes2lts-sym( 1/17): Creating a multi-core ListDD domain.
-pbes2lts-sym( 3/17): Creating a multi-core ListDD domain.
+pbes2lts-sym(28/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(38/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(24/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(25/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(32/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(31/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(39/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(27/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(33/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(29/65): Creating a multi-core ListDD domain.
+pbes2lts-sym( 5/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(21/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(54/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(30/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(23/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(61/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(41/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(63/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(46/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(35/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(56/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(50/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(45/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(15/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(20/65): Creating a multi-core ListDD domain.
+pbes2lts-sym( 7/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(48/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(51/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(49/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(44/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(60/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(58/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(42/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(19/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(59/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(47/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(53/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(57/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(64/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(12/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(43/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(40/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(62/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(52/65): Creating a multi-core ListDD domain.
+pbes2lts-sym( 3/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(18/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(16/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(17/65): Creating a multi-core ListDD domain.
+pbes2lts-sym(13/65): Creating a multi-core ListDD domain.
+pbes2lts-sym( 4/65): Creating a multi-core ListDD domain.
+pbes2lts-sym( 9/65): Creating a multi-core ListDD domain.
 pbes2lts-sym: Using GBgetTransitionsShort as next-state function
 pbes2lts-sym: got initial state
 pbes2lts-sym: level 0 is finished
@@ -126,168 +261,168 @@ pbes2lts-sym: level 49 is finished
 pbes2lts-sym: level 50 is finished
 pbes2lts-sym: level 51 is finished
 pbes2lts-sym: Exploration took 1508 group checks and 1508 next state calls
-pbes2lts-sym: reachability took 7.940 real 55.910 user 2.140 sys
+pbes2lts-sym: reachability took 0.900 real 39.770 user 8.550 sys
 pbes2lts-sym: counting visited states...
-pbes2lts-sym: counting took 1.520 real 12.190 user 0.010 sys
+pbes2lts-sym: counting took 0.020 real 0.990 user 0.020 sys
 pbes2lts-sym: state space has 143694735 (~1.44e+08) states, 162826 BDD nodes
 pbes2lts-sym: Computing symbolic parity game.
-pbes2lts-sym: computing symbolic parity game took 0.800 real 5.920 user 0.040 sys
-pbes2lts-sym: Solving symbolic partity game.
+pbes2lts-sym: computing symbolic parity game took 0.060 real 4.420 user 0.030 sys
+pbes2lts-sym: Solving symbolic parity game for player 0.
 pbes2lts-sym: [  0.000] solve_recursive
-pbes2lts-sym: [  0.900] solve_recursive: min=0, max=3, m=0, player=0
-pbes2lts-sym: [  0.900] attractor: player=0
-pbes2lts-sym: [  0.900] attr_0: level 0.
-pbes2lts-sym: [  2.730] attr_0: level 1.
-pbes2lts-sym: [  3.380] attr_0: level 2.
-pbes2lts-sym: [  4.000] attr_0: level 3.
-pbes2lts-sym: [  4.660] attr_0: level 4.
-pbes2lts-sym: [  6.960] attr_0: level 5.
-pbes2lts-sym: [  9.290] attr_0: level 6.
-pbes2lts-sym: [ 10.040] attr_0: level 7.
-pbes2lts-sym: [ 10.210] attr_0: level 8.
-pbes2lts-sym: [ 10.660] attr_0: level 9.
-pbes2lts-sym: [ 11.800] attr_0: level 10.
-pbes2lts-sym: [ 12.420] attr_0: level 11.
-pbes2lts-sym: [ 12.750] attr_0: level 12.
-pbes2lts-sym: [ 12.930] attr_0: level 13.
-pbes2lts-sym: [ 13.340] attr_0: level 14.
-pbes2lts-sym: [ 14.540] attr_0: level 15.
-pbes2lts-sym: [ 15.000] attr_0: level 16.
-pbes2lts-sym: [ 15.210] attr_0: level 17.
-pbes2lts-sym: [ 15.320] attr_0: level 18.
-pbes2lts-sym: [ 15.540] attr_0: level 19.
-pbes2lts-sym: [ 16.110] attr_0: level 20.
-pbes2lts-sym: [ 16.390] attr_0: level 21.
-pbes2lts-sym: [ 16.510] attr_0: level 22.
-pbes2lts-sym: [ 16.570] attr_0: level 23.
-pbes2lts-sym: [ 16.760] attr_0: level 24.
-pbes2lts-sym: [ 17.060] attr_0: level 25.
-pbes2lts-sym: [ 17.250] attr_0: level 26.
-pbes2lts-sym: [ 17.310] attr_0: level 27.
-pbes2lts-sym: [ 17.340] attr_0: level 28.
-pbes2lts-sym: [ 17.400] attr_0: level 29.
-pbes2lts-sym: [ 17.490] attr_0: level 30.
-pbes2lts-sym: [ 17.530] attr_0: level 31.
-pbes2lts-sym: [ 17.560] attr_0: level 32.
-pbes2lts-sym: [ 17.560] attr_0: level 33.
-pbes2lts-sym: [ 17.570] attr_0: level 34.
-pbes2lts-sym: [ 17.590] attr_0: level 35.
-pbes2lts-sym: [ 17.600] attr_0: level 36.
-pbes2lts-sym: [ 17.600] attr_0: level 37.
-pbes2lts-sym: [ 17.600] attr_0: level 38.
-pbes2lts-sym: [ 17.620] attr_0: level 39.
-pbes2lts-sym: [ 17.860]   solve_recursive
-pbes2lts-sym: [ 19.770]   solve_recursive: min=1, max=3, m=1, player=1
-pbes2lts-sym: [ 19.770]   attractor: player=1
-pbes2lts-sym: [ 19.770]   attr_1: level 0.
-pbes2lts-sym: [ 21.740]   attr_1: level 1.
-pbes2lts-sym: [ 22.620]   attr_1: level 2.
-pbes2lts-sym: [ 24.170]   attr_1: level 3.
-pbes2lts-sym: [ 25.540]   attr_1: level 4.
-pbes2lts-sym: [ 26.830]   attr_1: level 5.
-pbes2lts-sym: [ 27.340]   attr_1: level 6.
-pbes2lts-sym: [ 28.180]   attr_1: level 7.
-pbes2lts-sym: [ 29.800]   attr_1: level 8.
-pbes2lts-sym: [ 31.000]   attr_1: level 9.
-pbes2lts-sym: [ 31.520]   attr_1: level 10.
-pbes2lts-sym: [ 31.750]   attr_1: level 11.
-pbes2lts-sym: [ 32.470]   attr_1: level 12.
-pbes2lts-sym: [ 33.710]   attr_1: level 13.
-pbes2lts-sym: [ 34.550]   attr_1: level 14.
-pbes2lts-sym: [ 35.180]   attr_1: level 15.
-pbes2lts-sym: [ 35.380]   attr_1: level 16.
-pbes2lts-sym: [ 36.020]   attr_1: level 17.
-pbes2lts-sym: [ 37.590]   attr_1: level 18.
-pbes2lts-sym: [ 38.420]   attr_1: level 19.
-pbes2lts-sym: [ 39.000]   attr_1: level 20.
-pbes2lts-sym: [ 39.120]   attr_1: level 21.
-pbes2lts-sym: [ 39.580]   attr_1: level 22.
-pbes2lts-sym: [ 40.480]   attr_1: level 23.
-pbes2lts-sym: [ 41.230]   attr_1: level 24.
-pbes2lts-sym: [ 41.450]   attr_1: level 25.
-pbes2lts-sym: [ 41.540]   attr_1: level 26.
-pbes2lts-sym: [ 41.810]   attr_1: level 27.
-pbes2lts-sym: [ 42.180]   attr_1: level 28.
-pbes2lts-sym: [ 42.460]   attr_1: level 29.
-pbes2lts-sym: [ 42.600]   attr_1: level 30.
-pbes2lts-sym: [ 42.690]   attr_1: level 31.
-pbes2lts-sym: [ 42.790]   attr_1: level 32.
-pbes2lts-sym: [ 42.930]   attr_1: level 33.
-pbes2lts-sym: [ 43.010]   attr_1: level 34.
-pbes2lts-sym: [ 43.060]   attr_1: level 35.
-pbes2lts-sym: [ 43.110]   attr_1: level 36.
-pbes2lts-sym: [ 43.140]   attr_1: level 37.
-pbes2lts-sym: [ 43.170]   attr_1: level 38.
-pbes2lts-sym: [ 43.200]   attr_1: level 39.
-pbes2lts-sym: [ 43.200]   attr_1: level 40.
-pbes2lts-sym: [ 43.210]   attr_1: level 41.
-pbes2lts-sym: [ 43.210]   attr_1: level 42.
-pbes2lts-sym: [ 43.240]   attr_1: level 43.
-pbes2lts-sym: [ 43.240]   attr_1: level 44.
-pbes2lts-sym: [ 43.240]   attr_1: level 45.
-pbes2lts-sym: [ 43.240]   attr_1: level 46.
-pbes2lts-sym: [ 43.240]   attr_1: level 47.
-pbes2lts-sym: [ 43.240]   attr_1: level 48.
-pbes2lts-sym: [ 43.240]   attr_1: level 49.
-pbes2lts-sym: [ 43.240]   attr_1: level 50.
-pbes2lts-sym: [ 43.240]   attr_1: level 51.
-pbes2lts-sym: [ 43.270]     solve_recursive
-pbes2lts-sym: [ 43.270]     solve_recursive: game is empty.
-pbes2lts-sym: [ 43.270]   solve_recursive: x.win[0] empty.
-pbes2lts-sym: [ 43.270] solve_recursive: x.win[1] not empty.
-pbes2lts-sym: [ 43.270] attractor: player=1
-pbes2lts-sym: [ 43.270] attr_1: level 0.
-pbes2lts-sym: [ 48.060]   solve_recursive
-pbes2lts-sym: [ 49.200]   solve_recursive: min=0, max=3, m=0, player=0
-pbes2lts-sym: [ 49.200]   attractor: player=0
-pbes2lts-sym: [ 49.200]   attr_0: level 0.
-pbes2lts-sym: [ 51.660]   attr_0: level 1.
-pbes2lts-sym: [ 52.910]   attr_0: level 2.
-pbes2lts-sym: [ 53.180]   attr_0: level 3.
-pbes2lts-sym: [ 53.960]   attr_0: level 4.
-pbes2lts-sym: [ 55.630]   attr_0: level 5.
-pbes2lts-sym: [ 56.690]   attr_0: level 6.
-pbes2lts-sym: [ 57.130]   attr_0: level 7.
-pbes2lts-sym: [ 57.370]   attr_0: level 8.
-pbes2lts-sym: [ 57.710]   attr_0: level 9.
-pbes2lts-sym: [ 58.540]   attr_0: level 10.
-pbes2lts-sym: [ 58.960]   attr_0: level 11.
-pbes2lts-sym: [ 59.230]   attr_0: level 12.
-pbes2lts-sym: [ 59.340]   attr_0: level 13.
-pbes2lts-sym: [ 59.780]   attr_0: level 14.
-pbes2lts-sym: [ 60.340]   attr_0: level 15.
-pbes2lts-sym: [ 60.710]   attr_0: level 16.
-pbes2lts-sym: [ 61.040]   attr_0: level 17.
-pbes2lts-sym: [ 61.180]   attr_0: level 18.
-pbes2lts-sym: [ 61.430]   attr_0: level 19.
-pbes2lts-sym: [ 61.820]   attr_0: level 20.
-pbes2lts-sym: [ 62.070]   attr_0: level 21.
-pbes2lts-sym: [ 62.190]   attr_0: level 22.
-pbes2lts-sym: [ 62.250]   attr_0: level 23.
-pbes2lts-sym: [ 62.420]   attr_0: level 24.
-pbes2lts-sym: [ 62.540]   attr_0: level 25.
-pbes2lts-sym: [ 62.660]   attr_0: level 26.
-pbes2lts-sym: [ 62.720]   attr_0: level 27.
-pbes2lts-sym: [ 62.760]   attr_0: level 28.
-pbes2lts-sym: [ 62.850]   attr_0: level 29.
-pbes2lts-sym: [ 62.930]   attr_0: level 30.
-pbes2lts-sym: [ 62.960]   attr_0: level 31.
-pbes2lts-sym: [ 63.000]   attr_0: level 32.
-pbes2lts-sym: [ 63.000]   attr_0: level 33.
-pbes2lts-sym: [ 63.010]   attr_0: level 34.
-pbes2lts-sym: [ 63.030]   attr_0: level 35.
-pbes2lts-sym: [ 63.030]   attr_0: level 36.
-pbes2lts-sym: [ 63.030]   attr_0: level 37.
-pbes2lts-sym: [ 63.030]   attr_0: level 38.
-pbes2lts-sym: [ 63.040]   attr_0: level 39.
-pbes2lts-sym: [ 63.080]     solve_recursive
-pbes2lts-sym: [ 63.080]     solve_recursive: game is empty.
-pbes2lts-sym: [ 63.080]   solve_recursive: x.win[1] empty.
+pbes2lts-sym: [  0.060] solve_recursive: min=0, max=3, m=0, player=0
+pbes2lts-sym: [  0.060] attractor: player=0
+pbes2lts-sym: [  0.060] attr_0: level 0.
+pbes2lts-sym: [  0.170] attr_0: level 1.
+pbes2lts-sym: [  0.220] attr_0: level 2.
+pbes2lts-sym: [  0.260] attr_0: level 3.
+pbes2lts-sym: [  0.300] attr_0: level 4.
+pbes2lts-sym: [  0.430] attr_0: level 5.
+pbes2lts-sym: [  0.520] attr_0: level 6.
+pbes2lts-sym: [  0.550] attr_0: level 7.
+pbes2lts-sym: [  0.560] attr_0: level 8.
+pbes2lts-sym: [  0.580] attr_0: level 9.
+pbes2lts-sym: [  0.640] attr_0: level 10.
+pbes2lts-sym: [  0.680] attr_0: level 11.
+pbes2lts-sym: [  0.700] attr_0: level 12.
+pbes2lts-sym: [  0.710] attr_0: level 13.
+pbes2lts-sym: [  0.740] attr_0: level 14.
+pbes2lts-sym: [  0.800] attr_0: level 15.
+pbes2lts-sym: [  0.830] attr_0: level 16.
+pbes2lts-sym: [  0.850] attr_0: level 17.
+pbes2lts-sym: [  0.860] attr_0: level 18.
+pbes2lts-sym: [  0.880] attr_0: level 19.
+pbes2lts-sym: [  0.920] attr_0: level 20.
+pbes2lts-sym: [  0.950] attr_0: level 21.
+pbes2lts-sym: [  0.970] attr_0: level 22.
+pbes2lts-sym: [  0.980] attr_0: level 23.
+pbes2lts-sym: [  0.990] attr_0: level 24.
+pbes2lts-sym: [  1.020] attr_0: level 25.
+pbes2lts-sym: [  1.040] attr_0: level 26.
+pbes2lts-sym: [  1.040] attr_0: level 27.
+pbes2lts-sym: [  1.050] attr_0: level 28.
+pbes2lts-sym: [  1.060] attr_0: level 29.
+pbes2lts-sym: [  1.080] attr_0: level 30.
+pbes2lts-sym: [  1.080] attr_0: level 31.
+pbes2lts-sym: [  1.090] attr_0: level 32.
+pbes2lts-sym: [  1.100] attr_0: level 33.
+pbes2lts-sym: [  1.100] attr_0: level 34.
+pbes2lts-sym: [  1.110] attr_0: level 35.
+pbes2lts-sym: [  1.120] attr_0: level 36.
+pbes2lts-sym: [  1.120] attr_0: level 37.
+pbes2lts-sym: [  1.130] attr_0: level 38.
+pbes2lts-sym: [  1.130] attr_0: level 39.
+pbes2lts-sym: [  1.160]   solve_recursive
+pbes2lts-sym: [  1.440]   solve_recursive: min=1, max=3, m=1, player=1
+pbes2lts-sym: [  1.440]   attractor: player=1
+pbes2lts-sym: [  1.440]   attr_1: level 0.
+pbes2lts-sym: [  1.600]   attr_1: level 1.
+pbes2lts-sym: [  1.760]   attr_1: level 2.
+pbes2lts-sym: [  2.110]   attr_1: level 3.
+pbes2lts-sym: [  2.180]   attr_1: level 4.
+pbes2lts-sym: [  2.220]   attr_1: level 5.
+pbes2lts-sym: [  2.240]   attr_1: level 6.
+pbes2lts-sym: [  2.280]   attr_1: level 7.
+pbes2lts-sym: [  2.370]   attr_1: level 8.
+pbes2lts-sym: [  2.420]   attr_1: level 9.
+pbes2lts-sym: [  2.460]   attr_1: level 10.
+pbes2lts-sym: [  2.470]   attr_1: level 11.
+pbes2lts-sym: [  2.510]   attr_1: level 12.
+pbes2lts-sym: [  2.610]   attr_1: level 13.
+pbes2lts-sym: [  2.670]   attr_1: level 14.
+pbes2lts-sym: [  2.700]   attr_1: level 15.
+pbes2lts-sym: [  2.710]   attr_1: level 16.
+pbes2lts-sym: [  2.750]   attr_1: level 17.
+pbes2lts-sym: [  2.840]   attr_1: level 18.
+pbes2lts-sym: [  2.890]   attr_1: level 19.
+pbes2lts-sym: [  2.920]   attr_1: level 20.
+pbes2lts-sym: [  2.930]   attr_1: level 21.
+pbes2lts-sym: [  2.960]   attr_1: level 22.
+pbes2lts-sym: [  3.020]   attr_1: level 23.
+pbes2lts-sym: [  3.050]   attr_1: level 24.
+pbes2lts-sym: [  3.070]   attr_1: level 25.
+pbes2lts-sym: [  3.080]   attr_1: level 26.
+pbes2lts-sym: [  3.100]   attr_1: level 27.
+pbes2lts-sym: [  3.130]   attr_1: level 28.
+pbes2lts-sym: [  3.150]   attr_1: level 29.
+pbes2lts-sym: [  3.160]   attr_1: level 30.
+pbes2lts-sym: [  3.160]   attr_1: level 31.
+pbes2lts-sym: [  3.170]   attr_1: level 32.
+pbes2lts-sym: [  3.190]   attr_1: level 33.
+pbes2lts-sym: [  3.200]   attr_1: level 34.
+pbes2lts-sym: [  3.210]   attr_1: level 35.
+pbes2lts-sym: [  3.220]   attr_1: level 36.
+pbes2lts-sym: [  3.220]   attr_1: level 37.
+pbes2lts-sym: [  3.230]   attr_1: level 38.
+pbes2lts-sym: [  3.240]   attr_1: level 39.
+pbes2lts-sym: [  3.240]   attr_1: level 40.
+pbes2lts-sym: [  3.250]   attr_1: level 41.
+pbes2lts-sym: [  3.250]   attr_1: level 42.
+pbes2lts-sym: [  3.260]   attr_1: level 43.
+pbes2lts-sym: [  3.260]   attr_1: level 44.
+pbes2lts-sym: [  3.260]   attr_1: level 45.
+pbes2lts-sym: [  3.270]   attr_1: level 46.
+pbes2lts-sym: [  3.270]   attr_1: level 47.
+pbes2lts-sym: [  3.280]   attr_1: level 48.
+pbes2lts-sym: [  3.280]   attr_1: level 49.
+pbes2lts-sym: [  3.280]   attr_1: level 50.
+pbes2lts-sym: [  3.290]   attr_1: level 51.
+pbes2lts-sym: [  3.290]     solve_recursive
+pbes2lts-sym: [  3.290]     solve_recursive: game is empty.
+pbes2lts-sym: [  3.290]   solve_recursive: x.win[0] empty.
+pbes2lts-sym: [  3.290] solve_recursive: x.win[1] not empty.
+pbes2lts-sym: [  3.290] attractor: player=1
+pbes2lts-sym: [  3.290] attr_1: level 0.
+pbes2lts-sym: [  3.690]   solve_recursive
+pbes2lts-sym: [  3.820]   solve_recursive: min=0, max=3, m=0, player=0
+pbes2lts-sym: [  3.820]   attractor: player=0
+pbes2lts-sym: [  3.820]   attr_0: level 0.
+pbes2lts-sym: [  4.140]   attr_0: level 1.
+pbes2lts-sym: [  4.220]   attr_0: level 2.
+pbes2lts-sym: [  4.230]   attr_0: level 3.
+pbes2lts-sym: [  4.270]   attr_0: level 4.
+pbes2lts-sym: [  4.360]   attr_0: level 5.
+pbes2lts-sym: [  4.400]   attr_0: level 6.
+pbes2lts-sym: [  4.430]   attr_0: level 7.
+pbes2lts-sym: [  4.440]   attr_0: level 8.
+pbes2lts-sym: [  4.460]   attr_0: level 9.
+pbes2lts-sym: [  4.520]   attr_0: level 10.
+pbes2lts-sym: [  4.540]   attr_0: level 11.
+pbes2lts-sym: [  4.560]   attr_0: level 12.
+pbes2lts-sym: [  4.570]   attr_0: level 13.
+pbes2lts-sym: [  4.590]   attr_0: level 14.
+pbes2lts-sym: [  4.640]   attr_0: level 15.
+pbes2lts-sym: [  4.660]   attr_0: level 16.
+pbes2lts-sym: [  4.680]   attr_0: level 17.
+pbes2lts-sym: [  4.690]   attr_0: level 18.
+pbes2lts-sym: [  4.710]   attr_0: level 19.
+pbes2lts-sym: [  4.740]   attr_0: level 20.
+pbes2lts-sym: [  4.760]   attr_0: level 21.
+pbes2lts-sym: [  4.770]   attr_0: level 22.
+pbes2lts-sym: [  4.780]   attr_0: level 23.
+pbes2lts-sym: [  4.790]   attr_0: level 24.
+pbes2lts-sym: [  4.810]   attr_0: level 25.
+pbes2lts-sym: [  4.820]   attr_0: level 26.
+pbes2lts-sym: [  4.830]   attr_0: level 27.
+pbes2lts-sym: [  4.830]   attr_0: level 28.
+pbes2lts-sym: [  4.840]   attr_0: level 29.
+pbes2lts-sym: [  4.850]   attr_0: level 30.
+pbes2lts-sym: [  4.860]   attr_0: level 31.
+pbes2lts-sym: [  4.860]   attr_0: level 32.
+pbes2lts-sym: [  4.870]   attr_0: level 33.
+pbes2lts-sym: [  4.870]   attr_0: level 34.
+pbes2lts-sym: [  4.880]   attr_0: level 35.
+pbes2lts-sym: [  4.880]   attr_0: level 36.
+pbes2lts-sym: [  4.880]   attr_0: level 37.
+pbes2lts-sym: [  4.890]   attr_0: level 38.
+pbes2lts-sym: [  4.890]   attr_0: level 39.
+pbes2lts-sym: [  4.900]     solve_recursive
+pbes2lts-sym: [  4.900]     solve_recursive: game is empty.
+pbes2lts-sym: [  4.900]   solve_recursive: x.win[1] empty.
 pbes2lts-sym:  
 pbes2lts-sym: The result is: false.
 pbes2lts-sym:  
-pbes2lts-sym: reachability took    7.940 real 55.910 user 2.140 sys
-pbes2lts-sym: computing game took  0.800 real 5.920 user 0.040 sys
-pbes2lts-sym: solving took         63.080 real 492.200 user 1.690 sys
+pbes2lts-sym: reachability took    0.900 real 39.770 user 8.550 sys
+pbes2lts-sym: computing game took  0.060 real 4.420 user 0.030 sys
+pbes2lts-sym: solving took         4.900 real 308.600 user 4.180 sys
 Exit [0]
-588.42 user, 5.63 system, 76.80 elapsed -- Max VSize = 74285200KB, Max RSS = 6796KB
+441.24 user, 24.05 system, 7.51 elapsed -- Max VSize = 528429060KB, Max RSS = 6824KB

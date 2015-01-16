@@ -1,54 +1,189 @@
-lps2lts-sym: Using 16 CPUs
+lps2lts-sym: Using 64 CPUs
 lps2lts-sym: =============================================================================
-lps2lts-sym: Runtime environment could only preallocate 70 GB while requesting 283 GB.
+lps2lts-sym: Runtime environment could only preallocate 503 GB while requesting 2015 GB.
 lps2lts-sym:         Configure your system limits to exploit all memory.
 lps2lts-sym: =============================================================================
-lps2lts-sym( 0/17): Exploration order is par-prev
-lps2lts-sym( 0/17): Saturation strategy is none
-lps2lts-sym( 0/17): Guided search strategy is unguided
-lps2lts-sym( 0/17): Attractor strategy is default
-lps2lts-sym( 0/17): mCRL2 language module initialized
-lps2lts-sym( 0/17): Main process: 0.
-lps2lts-sym( 0/17): 16 slave processes started.
-lps2lts-sym( 2/17): mCRL2 language module initialized
-lps2lts-sym( 4/17): opening four_in_a_row5.lps
-lps2lts-sym( 1/17): opening four_in_a_row5.lps
-lps2lts-sym( 2/17): opening four_in_a_row5.lps
-lps2lts-sym( 6/17): mCRL2 language module initialized
-lps2lts-sym( 6/17): opening four_in_a_row5.lps
-lps2lts-sym( 3/17): mCRL2 language module initialized
-lps2lts-sym( 9/17): opening four_in_a_row5.lps
-lps2lts-sym( 3/17): opening four_in_a_row5.lps
-lps2lts-sym( 5/17): mCRL2 language module initialized
-lps2lts-sym(11/17): opening four_in_a_row5.lps
-lps2lts-sym(10/17): mCRL2 language module initialized
-lps2lts-sym(10/17): opening four_in_a_row5.lps
-lps2lts-sym(13/17): mCRL2 language module initialized
-lps2lts-sym(16/17): mCRL2 language module initialized
-lps2lts-sym(13/17): opening four_in_a_row5.lps
-lps2lts-sym(14/17): mCRL2 language module initialized
-lps2lts-sym(16/17): opening four_in_a_row5.lps
-lps2lts-sym( 7/17): opening four_in_a_row5.lps
-lps2lts-sym(12/17): opening four_in_a_row5.lps
-lps2lts-sym( 8/17): mCRL2 language module initialized
-lps2lts-sym( 8/17): opening four_in_a_row5.lps
-lps2lts-sym(15/17): mCRL2 language module initialized
-lps2lts-sym(15/17): opening four_in_a_row5.lps
+lps2lts-sym( 0/65): Exploration order is par-prev
+lps2lts-sym( 0/65): Saturation strategy is none
+lps2lts-sym( 0/65): Guided search strategy is unguided
+lps2lts-sym( 0/65): Attractor strategy is default
+lps2lts-sym( 0/65): mCRL2 language module initialized
+lps2lts-sym( 0/65): Main process: 0.
+lps2lts-sym( 0/65): 64 slave processes started.
+lps2lts-sym( 1/65): mCRL2 language module initialized
+lps2lts-sym( 1/65): opening four_in_a_row5.lps
+lps2lts-sym( 2/65): mCRL2 language module initialized
+lps2lts-sym( 2/65): opening four_in_a_row5.lps
+lps2lts-sym( 4/65): mCRL2 language module initialized
+lps2lts-sym( 4/65): opening four_in_a_row5.lps
+lps2lts-sym( 3/65): mCRL2 language module initialized
+lps2lts-sym( 3/65): opening four_in_a_row5.lps
+lps2lts-sym( 5/65): mCRL2 language module initialized
+lps2lts-sym( 5/65): opening four_in_a_row5.lps
+lps2lts-sym( 6/65): mCRL2 language module initialized
+lps2lts-sym( 6/65): opening four_in_a_row5.lps
+lps2lts-sym( 7/65): mCRL2 language module initialized
+lps2lts-sym( 7/65): opening four_in_a_row5.lps
+lps2lts-sym( 8/65): mCRL2 language module initialized
+lps2lts-sym( 8/65): opening four_in_a_row5.lps
+lps2lts-sym( 9/65): mCRL2 language module initialized
+lps2lts-sym( 9/65): opening four_in_a_row5.lps
+lps2lts-sym(10/65): mCRL2 language module initialized
+lps2lts-sym(10/65): opening four_in_a_row5.lps
+lps2lts-sym(12/65): mCRL2 language module initialized
+lps2lts-sym(12/65): opening four_in_a_row5.lps
+lps2lts-sym(13/65): mCRL2 language module initialized
+lps2lts-sym(13/65): opening four_in_a_row5.lps
+lps2lts-sym(11/65): mCRL2 language module initialized
+lps2lts-sym(11/65): opening four_in_a_row5.lps
+lps2lts-sym(15/65): mCRL2 language module initialized
+lps2lts-sym(14/65): mCRL2 language module initialized
+lps2lts-sym(14/65): opening four_in_a_row5.lps
+lps2lts-sym(21/65): mCRL2 language module initialized
+lps2lts-sym(21/65): opening four_in_a_row5.lps
+lps2lts-sym(18/65): opening four_in_a_row5.lps
+lps2lts-sym(19/65): mCRL2 language module initialized
+lps2lts-sym(19/65): opening four_in_a_row5.lps
+lps2lts-sym(16/65): mCRL2 language module initialized
+lps2lts-sym(16/65): opening four_in_a_row5.lps
+lps2lts-sym(17/65): mCRL2 language module initialized
+lps2lts-sym(17/65): opening four_in_a_row5.lps
+lps2lts-sym(20/65): mCRL2 language module initialized
+lps2lts-sym(20/65): opening four_in_a_row5.lps
+lps2lts-sym(23/65): mCRL2 language module initialized
+lps2lts-sym(23/65): opening four_in_a_row5.lps
+lps2lts-sym(25/65): mCRL2 language module initialized
+lps2lts-sym(25/65): opening four_in_a_row5.lps
+lps2lts-sym(24/65): mCRL2 language module initialized
+lps2lts-sym(26/65): mCRL2 language module initialized
+lps2lts-sym(24/65): opening four_in_a_row5.lps
+lps2lts-sym(26/65): opening four_in_a_row5.lps
+lps2lts-sym(28/65): mCRL2 language module initialized
+lps2lts-sym(28/65): opening four_in_a_row5.lps
+lps2lts-sym(29/65): mCRL2 language module initialized
+lps2lts-sym(29/65): opening four_in_a_row5.lps
+lps2lts-sym(22/65): mCRL2 language module initialized
+lps2lts-sym(27/65): mCRL2 language module initialized
+lps2lts-sym(22/65): opening four_in_a_row5.lps
+lps2lts-sym(27/65): opening four_in_a_row5.lps
+lps2lts-sym(30/65): mCRL2 language module initialized
+lps2lts-sym(30/65): opening four_in_a_row5.lps
+lps2lts-sym(32/65): mCRL2 language module initialized
+lps2lts-sym(32/65): opening four_in_a_row5.lps
+lps2lts-sym(33/65): mCRL2 language module initialized
+lps2lts-sym(36/65): opening four_in_a_row5.lps
+lps2lts-sym(33/65): opening four_in_a_row5.lps
+lps2lts-sym(34/65): mCRL2 language module initialized
+lps2lts-sym(34/65): opening four_in_a_row5.lps
+lps2lts-sym(40/65): mCRL2 language module initialized
+lps2lts-sym(40/65): opening four_in_a_row5.lps
+lps2lts-sym(35/65): mCRL2 language module initialized
+lps2lts-sym(35/65): opening four_in_a_row5.lps
+lps2lts-sym(31/65): mCRL2 language module initialized
+lps2lts-sym(31/65): opening four_in_a_row5.lps
+lps2lts-sym(57/65): mCRL2 language module initialized
+lps2lts-sym(41/65): mCRL2 language module initialized
+lps2lts-sym(57/65): opening four_in_a_row5.lps
+lps2lts-sym(41/65): opening four_in_a_row5.lps
+lps2lts-sym(53/65): mCRL2 language module initialized
+lps2lts-sym(50/65): mCRL2 language module initialized
+lps2lts-sym(53/65): opening four_in_a_row5.lps
+lps2lts-sym(50/65): opening four_in_a_row5.lps
+lps2lts-sym(39/65): mCRL2 language module initialized
+lps2lts-sym(39/65): opening four_in_a_row5.lps
+lps2lts-sym(51/65): mCRL2 language module initialized
+lps2lts-sym(51/65): opening four_in_a_row5.lps
+lps2lts-sym(48/65): mCRL2 language module initialized
+lps2lts-sym(48/65): opening four_in_a_row5.lps
+lps2lts-sym(55/65): opening four_in_a_row5.lps
+lps2lts-sym(43/65): opening four_in_a_row5.lps
+lps2lts-sym(58/65): mCRL2 language module initialized
+lps2lts-sym(58/65): opening four_in_a_row5.lps
+lps2lts-sym(52/65): mCRL2 language module initialized
+lps2lts-sym(52/65): opening four_in_a_row5.lps
+lps2lts-sym(45/65): mCRL2 language module initialized
+lps2lts-sym(45/65): opening four_in_a_row5.lps
+lps2lts-sym(46/65): mCRL2 language module initialized
+lps2lts-sym(46/65): opening four_in_a_row5.lps
+lps2lts-sym(44/65): mCRL2 language module initialized
+lps2lts-sym(44/65): opening four_in_a_row5.lps
+lps2lts-sym(61/65): mCRL2 language module initialized
+lps2lts-sym(61/65): opening four_in_a_row5.lps
+lps2lts-sym(60/65): mCRL2 language module initialized
+lps2lts-sym(60/65): opening four_in_a_row5.lps
+lps2lts-sym(49/65): mCRL2 language module initialized
+lps2lts-sym(49/65): opening four_in_a_row5.lps
+lps2lts-sym(59/65): mCRL2 language module initialized
+lps2lts-sym(59/65): opening four_in_a_row5.lps
+lps2lts-sym(38/65): mCRL2 language module initialized
+lps2lts-sym(38/65): opening four_in_a_row5.lps
+lps2lts-sym(63/65): mCRL2 language module initialized
+lps2lts-sym(63/65): opening four_in_a_row5.lps
+lps2lts-sym(54/65): mCRL2 language module initialized
+lps2lts-sym(54/65): opening four_in_a_row5.lps
+lps2lts-sym(47/65): mCRL2 language module initialized
+lps2lts-sym(47/65): opening four_in_a_row5.lps
+lps2lts-sym(56/65): mCRL2 language module initialized
+lps2lts-sym(56/65): opening four_in_a_row5.lps
+lps2lts-sym(62/65): mCRL2 language module initialized
+lps2lts-sym(62/65): opening four_in_a_row5.lps
+lps2lts-sym(64/65): mCRL2 language module initialized
+lps2lts-sym(64/65): opening four_in_a_row5.lps
+lps2lts-sym(42/65): mCRL2 language module initialized
+lps2lts-sym(42/65): opening four_in_a_row5.lps
 lps2lts-sym: opening four_in_a_row5.lps
-lps2lts-sym( 1/17): mCRL2 rewriter: jitty
-lps2lts-sym( 6/17): mCRL2 rewriter: jitty
-lps2lts-sym( 9/17): mCRL2 rewriter: jitty
-lps2lts-sym( 3/17): mCRL2 rewriter: jitty
-lps2lts-sym(11/17): mCRL2 rewriter: jitty
-lps2lts-sym( 5/17): mCRL2 rewriter: jitty
-lps2lts-sym(10/17): mCRL2 rewriter: jitty
-lps2lts-sym(13/17): mCRL2 rewriter: jitty
-lps2lts-sym( 7/17): mCRL2 rewriter: jitty
-lps2lts-sym(14/17): mCRL2 rewriter: jitty
-lps2lts-sym(12/17): mCRL2 rewriter: jitty
-lps2lts-sym(15/17): mCRL2 rewriter: jitty
+lps2lts-sym( 2/65): mCRL2 rewriter: jitty
+lps2lts-sym( 4/65): mCRL2 rewriter: jitty
+lps2lts-sym( 5/65): mCRL2 rewriter: jitty
+lps2lts-sym( 6/65): mCRL2 rewriter: jitty
+lps2lts-sym( 7/65): mCRL2 rewriter: jitty
+lps2lts-sym( 8/65): mCRL2 rewriter: jitty
+lps2lts-sym( 9/65): mCRL2 rewriter: jitty
+lps2lts-sym(10/65): mCRL2 rewriter: jitty
+lps2lts-sym(12/65): mCRL2 rewriter: jitty
+lps2lts-sym(11/65): mCRL2 rewriter: jitty
+lps2lts-sym(15/65): mCRL2 rewriter: jitty
+lps2lts-sym(21/65): mCRL2 rewriter: jitty
+lps2lts-sym(19/65): mCRL2 rewriter: jitty
+lps2lts-sym(16/65): mCRL2 rewriter: jitty
+lps2lts-sym(17/65): mCRL2 rewriter: jitty
+lps2lts-sym(20/65): mCRL2 rewriter: jitty
+lps2lts-sym(23/65): mCRL2 rewriter: jitty
+lps2lts-sym(25/65): mCRL2 rewriter: jitty
+lps2lts-sym(24/65): mCRL2 rewriter: jitty
+lps2lts-sym(28/65): mCRL2 rewriter: jitty
+lps2lts-sym(29/65): mCRL2 rewriter: jitty
+lps2lts-sym(22/65): mCRL2 rewriter: jitty
+lps2lts-sym(32/65): mCRL2 rewriter: jitty
+lps2lts-sym(40/65): mCRL2 rewriter: jitty
+lps2lts-sym(35/65): mCRL2 rewriter: jitty
+lps2lts-sym(53/65): mCRL2 rewriter: jitty
+lps2lts-sym(41/65): mCRL2 rewriter: jitty
+lps2lts-sym(48/65): mCRL2 rewriter: jitty
+lps2lts-sym(55/65): mCRL2 rewriter: jitty
+lps2lts-sym(44/65): mCRL2 rewriter: jitty
+lps2lts-sym(52/65): mCRL2 rewriter: jitty
+lps2lts-sym(64/65): mCRL2 rewriter: jitty
+lps2lts-sym(30/65): mCRL2 rewriter: jitty
+lps2lts-sym(27/65): mCRL2 rewriter: jitty
+lps2lts-sym(38/65): mCRL2 rewriter: jitty
+lps2lts-sym(51/65): mCRL2 rewriter: jitty
+lps2lts-sym(54/65): mCRL2 rewriter: jitty
+lps2lts-sym(57/65): mCRL2 rewriter: jitty
+lps2lts-sym(61/65): mCRL2 rewriter: jitty
 lps2lts-sym: mCRL2 rewriter: jitty
-lps2lts-sym( 8/17): mCRL2 rewriter: jitty
+lps2lts-sym(49/65): mCRL2 rewriter: jitty
+lps2lts-sym(58/65): mCRL2 rewriter: jitty
+lps2lts-sym(59/65): mCRL2 rewriter: jitty
+lps2lts-sym(56/65): mCRL2 rewriter: jitty
+lps2lts-sym(42/65): mCRL2 rewriter: jitty
+lps2lts-sym(60/65): mCRL2 rewriter: jitty
+lps2lts-sym(37/65): mCRL2 rewriter: jitty
+lps2lts-sym(63/65): mCRL2 rewriter: jitty
+lps2lts-sym(47/65): mCRL2 rewriter: jitty
+lps2lts-sym(45/65): mCRL2 rewriter: jitty
+lps2lts-sym(39/65): mCRL2 rewriter: jitty
+lps2lts-sym(31/65): mCRL2 rewriter: jitty
 lps2lts-sym: Regroup specification: gs
 lps2lts-sym: Regroup macro Group Safely: gc,gr,cw,rs
 lps2lts-sym: Regroup macro Cols: cs,cn
@@ -60,25 +195,73 @@ lps2lts-sym: Regroup Row Nub
 lps2lts-sym: Regroup Column sWaps
 lps2lts-sym: Regroup Row Sort
 lps2lts-sym: Regrouping: 12->6 groups
-lps2lts-sym: state vector length is 21; there are 6 groups
-lps2lts-sym( 1/17): Creating a multi-core ListDD domain.
-lps2lts-sym( 2/17): Creating a multi-core ListDD domain.
-lps2lts-sym( 3/17): Creating a multi-core ListDD domain.
-lps2lts-sym( 4/17): Creating a multi-core ListDD domain.
-lps2lts-sym( 5/17): Creating a multi-core ListDD domain.
-lps2lts-sym( 6/17): Creating a multi-core ListDD domain.
-lps2lts-sym( 7/17): Creating a multi-core ListDD domain.
-lps2lts-sym( 8/17): Creating a multi-core ListDD domain.
-lps2lts-sym( 9/17): Creating a multi-core ListDD domain.
-lps2lts-sym(10/17): Creating a multi-core ListDD domain.
-lps2lts-sym(11/17): Creating a multi-core ListDD domain.
-lps2lts-sym(12/17): Creating a multi-core ListDD domain.
-lps2lts-sym(13/17): Creating a multi-core ListDD domain.
-lps2lts-sym(14/17): Creating a multi-core ListDD domain.
-lps2lts-sym(15/17): Creating a multi-core ListDD domain.
-lps2lts-sym(16/17): Creating a multi-core ListDD domain.
+lps2lts-sym: state vector length is 21; there are 6 groups and 9 guards
 lps2lts-sym: Creating a multi-core ListDD domain.
+lps2lts-sym( 3/65): Creating a multi-core ListDD domain.
+lps2lts-sym( 1/65): Creating a multi-core ListDD domain.
 lps2lts-sym: May-write does not support copy; over-approximating may-write \ must-write to read + write
+lps2lts-sym( 2/65): Creating a multi-core ListDD domain.
+lps2lts-sym(59/65): Creating a multi-core ListDD domain.
+lps2lts-sym( 4/65): Creating a multi-core ListDD domain.
+lps2lts-sym( 5/65): Creating a multi-core ListDD domain.
+lps2lts-sym(64/65): Creating a multi-core ListDD domain.
+lps2lts-sym( 6/65): Creating a multi-core ListDD domain.
+lps2lts-sym(63/65): Creating a multi-core ListDD domain.
+lps2lts-sym( 7/65): Creating a multi-core ListDD domain.
+lps2lts-sym(62/65): Creating a multi-core ListDD domain.
+lps2lts-sym( 8/65): Creating a multi-core ListDD domain.
+lps2lts-sym(61/65): Creating a multi-core ListDD domain.
+lps2lts-sym( 9/65): Creating a multi-core ListDD domain.
+lps2lts-sym(60/65): Creating a multi-core ListDD domain.
+lps2lts-sym(10/65): Creating a multi-core ListDD domain.
+lps2lts-sym(38/65): Creating a multi-core ListDD domain.
+lps2lts-sym(13/65): Creating a multi-core ListDD domain.
+lps2lts-sym(56/65): Creating a multi-core ListDD domain.
+lps2lts-sym(16/65): Creating a multi-core ListDD domain.
+lps2lts-sym(55/65): Creating a multi-core ListDD domain.
+lps2lts-sym(21/65): Creating a multi-core ListDD domain.
+lps2lts-sym(40/65): Creating a multi-core ListDD domain.
+lps2lts-sym(23/65): Creating a multi-core ListDD domain.
+lps2lts-sym(44/65): Creating a multi-core ListDD domain.
+lps2lts-sym(31/65): Creating a multi-core ListDD domain.
+lps2lts-sym(22/65): Creating a multi-core ListDD domain.
+lps2lts-sym(58/65): Creating a multi-core ListDD domain.
+lps2lts-sym(28/65): Creating a multi-core ListDD domain.
+lps2lts-sym(36/65): Creating a multi-core ListDD domain.
+lps2lts-sym(30/65): Creating a multi-core ListDD domain.
+lps2lts-sym(57/65): Creating a multi-core ListDD domain.
+lps2lts-sym(12/65): Creating a multi-core ListDD domain.
+lps2lts-sym(43/65): Creating a multi-core ListDD domain.
+lps2lts-sym(33/65): Creating a multi-core ListDD domain.
+lps2lts-sym(46/65): Creating a multi-core ListDD domain.
+lps2lts-sym(18/65): Creating a multi-core ListDD domain.
+lps2lts-sym(45/65): Creating a multi-core ListDD domain.
+lps2lts-sym(26/65): Creating a multi-core ListDD domain.
+lps2lts-sym(54/65): Creating a multi-core ListDD domain.
+lps2lts-sym(35/65): Creating a multi-core ListDD domain.
+lps2lts-sym(42/65): Creating a multi-core ListDD domain.
+lps2lts-sym(25/65): Creating a multi-core ListDD domain.
+lps2lts-sym(48/65): Creating a multi-core ListDD domain.
+lps2lts-sym(29/65): Creating a multi-core ListDD domain.
+lps2lts-sym(49/65): Creating a multi-core ListDD domain.
+lps2lts-sym(24/65): Creating a multi-core ListDD domain.
+lps2lts-sym(37/65): Creating a multi-core ListDD domain.
+lps2lts-sym(17/65): Creating a multi-core ListDD domain.
+lps2lts-sym(51/65): Creating a multi-core ListDD domain.
+lps2lts-sym(34/65): Creating a multi-core ListDD domain.
+lps2lts-sym(41/65): Creating a multi-core ListDD domain.
+lps2lts-sym(15/65): Creating a multi-core ListDD domain.
+lps2lts-sym(50/65): Creating a multi-core ListDD domain.
+lps2lts-sym(32/65): Creating a multi-core ListDD domain.
+lps2lts-sym(53/65): Creating a multi-core ListDD domain.
+lps2lts-sym(11/65): Creating a multi-core ListDD domain.
+lps2lts-sym(52/65): Creating a multi-core ListDD domain.
+lps2lts-sym(47/65): Creating a multi-core ListDD domain.
+lps2lts-sym(14/65): Creating a multi-core ListDD domain.
+lps2lts-sym(39/65): Creating a multi-core ListDD domain.
+lps2lts-sym(19/65): Creating a multi-core ListDD domain.
+lps2lts-sym(20/65): Creating a multi-core ListDD domain.
+lps2lts-sym(27/65): Creating a multi-core ListDD domain.
 lps2lts-sym: Using GBgetTransitionsShort as next-state function
 lps2lts-sym: got initial state
 lps2lts-sym: level 0 is finished
@@ -104,9 +287,9 @@ lps2lts-sym: level 19 is finished
 lps2lts-sym: level 20 is finished
 lps2lts-sym: level 21 is finished
 lps2lts-sym: Exploration took 132 group checks and 132 next state calls
-lps2lts-sym: reachability took 124.050 real 165.970 user 491.170 sys
+lps2lts-sym: reachability took 78.600 real 387.490 user 1946.240 sys
 lps2lts-sym: counting visited states...
-lps2lts-sym: counting took 0.040 real 0.800 user 0.000 sys
+lps2lts-sym: counting took 0.010 real 0.670 user 0.000 sys
 lps2lts-sym: state space has 7039582 (~7.04e+06) states, 72598 BDD nodes
 Exit [0]
-1007.64 user, 979.94 system, 124.40 elapsed -- Max VSize = 74276476KB, Max RSS = 5784KB
+1339.31 user, 3671.62 system, 79.78 elapsed -- Max VSize = 528420404KB, Max RSS = 5812KB
