@@ -21,7 +21,8 @@ gcc -c -I/usr/local/include/ltsmin -I. -std=c99 -fPIC dlopen-impl.c
 
 Step 3: create shared library
 --
-```gcc -shared -o sokoboard.so dlopen-impl.o sokoboard.o```
+ - On Linux use: ```gcc -shared -o sokoboard.so dlopen-impl.o sokoboard.o```
+ - On OS X use: ```gcc -shared -o sokoboard.so -undefined dynamic_lookup dlopen-impl.o sokoboard.o```
 
 Step 4: run the example from the paper
 --
